@@ -1,16 +1,68 @@
-# React + Vite
+# Amin Zahedi 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Aspiring Frontend Developer | React Enthusiast | Beginner in Data & AI  
 
-Currently, two official plugins are available:
+I am a self-driven learner building strong foundations in frontend development and React.  
+I enjoy creating clean, maintainable, and interactive web applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 💻 Skills
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Frontend & Tools
+- JavaScript (ES6+)
+- React (Hooks, Component-based development)
+- HTML & CSS
+- Git & GitHub
+- VS Code & basic development workflow
 
-## Expanding the ESLint configuration
+### Data & AI (Learning)
+- Data analysis basics
+- PyTorch (beginner)
+- Problem-solving & algorithmic thinking
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Hardware & Embedded Systems
+- Arduino (basic projects & sensors)
+- Simulation with ArduPilot & Lua scripting
+
+---
+
+## 📂 Projects
+
+A clean and interactive Todo List built with React.
+
+- Add, complete, and delete tasks  
+- Implemented using React Hooks (`useState`)  
+- Minimal UI suitable for beginners and portfolio showcase  
+- Demonstrates practical frontend skills
+
+**GitHub Repo:** [react-todo-list](https://github.com/aminzahedi783/react-todo-list)
+
+---
+
+### **ArduPilot Simulation & Lua Scripting**  
+- Worked with ArduPilot in simulation  
+- Wrote Lua scripts for waypoint and mission management  
+- Learned hardware-less drone programming
+
+### **Arduino Projects**  
+- Built basic sensor-based circuits  
+- Learned microcontroller programming and electronics basics
+
+---
+
+### 🎯 Learning Goals
+
+- Strengthen React & frontend development skills  
+- Build more interactive web apps  
+- Explore data visualization in JavaScript  
+- Contribute to open-source projects  
+- Transition from beginner to confident frontend developer
+
+---
+
+## 📦 Setup & Run React Todo List
+
+1. Install dependencies:
+```bash
+npm install
